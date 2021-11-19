@@ -20,7 +20,7 @@ limitations under the License.
 
 # dmskramp
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Evaluate the [ramp function][@stdlib/math/base/special/ramp] for each element in a double-precision floating-point strided array according to a strided mask array.
 
@@ -314,6 +314,23 @@ int main() {
 
 <!-- /.c -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math/strided/special/dramp`][@stdlib/math/strided/special/dramp]</span><span class="delimiter">: </span><span class="description">evaluate the ramp function for each element in a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/math/strided/special/smskramp`][@stdlib/math/strided/special/smskramp]</span><span class="delimiter">: </span><span class="description">evaluate the ramp function for each element in a single-precision floating-point strided array according to a strided mask array.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -357,8 +374,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-strided-special-dmskramp/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-strided-special-dmskramp?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-strided-special-dmskramp.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-strided-special-dmskramp/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
@@ -374,6 +395,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/ramp]: https://github.com/stdlib-js/math-base-special-ramp
 
 [@stdlib/array/uint8]: https://github.com/stdlib-js/array-uint8
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/dramp]: https://github.com/stdlib-js/math-strided-special-dramp
+
+[@stdlib/math/strided/special/smskramp]: https://github.com/stdlib-js/math-strided-special-smskramp
+
+<!-- </related-links> -->
 
 </section>
 
