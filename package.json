@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-strided-special-dmskramp",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "description": "Evaluate the ramp function for each element in a double-precision floating-point strided array according to a strided mask array.",
   "license": "Apache-2.0",
   "author": {
