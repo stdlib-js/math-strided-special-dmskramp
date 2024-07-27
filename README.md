@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmskramp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskramp@deno/mod.js';
+import dmskramp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskramp@v0.2.2-deno/mod.js';
 ```
 
 #### dmskramp( N, x, sx, m, sm, y, sy )
@@ -167,7 +167,7 @@ dmskramp.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@deno/mod.js';
-import dmskramp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskramp@deno/mod.js';
+import dmskramp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskramp@v0.2.2-deno/mod.js';
 
 var x = new Float64Array( 10 );
 var m = new Uint8Array( 10 );
