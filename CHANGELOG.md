@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2026-01-29)
 
 <section class="issues">
 
@@ -25,7 +25,7 @@ A total of 2 issues were closed in this release:
 <details>
 
 -   [`b817e6c`](https://github.com/stdlib-js/stdlib/commit/b817e6ccbf3137dffbc8cbdcb0c6aeefa843e0fa) - **chore:** fix EditorConfig lint errors [(#7628)](https://github.com/stdlib-js/stdlib/pull/7628) _(by Atharva Patil, Athan Reines)_
--   [`f00f57b`](https://github.com/stdlib-js/stdlib/commit/f00f57b9306b3c678f4bfd1719817c767299b3eb) - **chore:** fix C lint errors [(#7550)](https://github.com/stdlib-js/stdlib/pull/7550) _(by zhanggy)_
+-   [`f00f57b`](https://github.com/stdlib-js/stdlib/commit/f00f57b9306b3c678f4bfd1719817c767299b3eb) - **chore:** fix C lint errors [(#7550)](https://github.com/stdlib-js/stdlib/pull/7550) _(by Geo Daoyu)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
@@ -43,8 +43,8 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Atharva Patil
+-   Geo Daoyu
 -   Philipp Burckhardt
--   zhanggy
 
 </section>
 
